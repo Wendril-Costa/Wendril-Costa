@@ -5,6 +5,7 @@
 </h1>
 <h5 align="center">
 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/Wendril-Costa)](https://www.linkedin.com/in/wendril-costa/)
 <p>
  📫 Email: <a href="mailto: wendrild.c.n@gmail.com">wendrild.c.n@gmail.com</a>
 </p>
@@ -42,8 +43,8 @@
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://bobcares.com/wp-content/uploads/2022/06/mysql.png" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png" align="left" alt="git" height='42px' /> </a>
-<a href="https://www.json.org/json-en.html" target="_blank"  > <img src="https://st4.depositphotos.com/28636338/41691/v/600/depositphotos_416917070-stock-illustration-vector-json-file-icon.jpg" align="left" alt="git" height='42px' /> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" align="left" alt="git" height='42px' /> </a>
+<a href="https://www.json.org/json-en.html" target="_blank"  > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png" align="left" alt="git" height='42px' /> </a>
 <a href="https://redux.js.org/" target="_blank"  > <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" align="left" alt="git" height='42px' /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"  > <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png?w=360" align="left" alt="git" height='42px' /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"  > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" align="left" alt="git" height='42px' /> </a>
