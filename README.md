@@ -12,6 +12,7 @@
 </h5>
 
 <img align="right" alt="GIF" src="https://1099028l.ha.azioncdn.net/image/manutencao/manutencao.gif" width="450px"/>
+
 ### 👋 About Me:
 
 <p>
