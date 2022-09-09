@@ -13,8 +13,11 @@
 
 ### 👋 About Me:
 <p>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="330px"/>
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="380px"/>
+I'm a Trybe student, Full Stack Web Development course 🌐, having 4 HardSkills modules (Fundamentals, Front-End, Back-End, Computer Science) 👨🏻‍💻 and counting on SoftSkills such as Self-Leadership, Time Management, Creativity, Collaboration and many others 📚
+<br>
+<br>
+I am a passionate learner who is always willing to learn, work on technologies and domains 💡 and looking for new challenges in the tech world ✨
 <br/>
 <br/>
 </p>
@@ -23,15 +26,19 @@
 
 ### 🧐 More About Me:
 <br>
-- 🔭 &nbsp;
-- 🤝 &nbsp;
-- 🌱 &nbsp;
-- 👨🏻‍💻 &nbsp; 
-- 🎨 &nbsp;
-- 💬 &nbsp;
-- 📫 &nbsp;
-- 📝 &nbsp; 
-- 📚 &nbsp; 
+- 🎓 &nbsp;In the Trybe course I graduated in the Fundamentals Module and in Front-End, check out my certificates: <a href="https://pdf.credential.net/ecnefhzx_1648660435230.pdf" title="Certificates">Fundamentals</a> 📝 /  <a href="https://pdf.credential.net/rwkanyvw_1658425827679.pdf" title="Certificates">Front-End</a> 📝
+<br>
+<br>
+- 🛠 &nbsp;I'm in the Back-End Module, working with Node.js, Express, MySql, Json, Software Architecture: MSC, SQL, Docker 👨🏻‍💻
+<br>
+<br>
+- 🚀 &nbsp;And learning about ORM (Interface of the application with the database), Authentication with JWT, Heroku and TypeScript 👨🏻‍💻
+<br>
+<br>
+- 💻 &nbsp;I am also a student at UTFPR (Universidade Tecnológica Federal do Paraná) 🏛, in Computer Science 🎓
+<br>
+<br>
+- 🤝 &nbsp;Currently looking to enter the job market as a Developer 🌐
 <hr>
 <br>
 
