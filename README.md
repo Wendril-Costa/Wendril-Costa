@@ -10,10 +10,12 @@
  📫 Email: <a href="mailto: wendrild.c.n@gmail.com">wendrild.c.n@gmail.com</a>
 </p>
 </h5>
+<img align="right" alt="GIF" src="https://1099028l.ha.azioncdn.net/image/manutencao/manutencao.gif" width="500px"/>
 
 ### 👋 About Me:
+
 <p>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="380px"/>
+
 I'm a Trybe student, Full Stack Web Development course 🌐, having 4 HardSkills modules (Fundamentals, Front-End, Back-End, Computer Science) 👨🏻‍💻 and counting on SoftSkills such as Self-Leadership, Time Management, Creativity, Collaboration and many others 📚
 <br>
 <br>
