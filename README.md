@@ -11,11 +11,11 @@
 </p>
 </h5>
 
-
+<img align="right" alt="GIF" src="https://1099028l.ha.azioncdn.net/image/manutencao/manutencao.gif" width="450px"/>
 ### 👋 About Me:
 
 <p>
-<img align="right" alt="GIF" src="https://1099028l.ha.azioncdn.net/image/manutencao/manutencao.gif" width="450px"/>
+
 I'm a Trybe student, Full Stack Web Development course 🌐, having 4 HardSkills modules (Fundamentals, Front-End, Back-End, Computer Science) 👨🏻‍💻 and counting on SoftSkills such as Self-Leadership, Time Management, Creativity, Collaboration and many others 📚
 <br>
 <br>
