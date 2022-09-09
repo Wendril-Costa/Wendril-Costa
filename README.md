@@ -24,7 +24,6 @@ I am a passionate learner who is always willing to learn, work on technologies a
 <br/>
 <br/>
 </p>
-<br>
 <hr>
 
 ### 🧐 More About Me:
