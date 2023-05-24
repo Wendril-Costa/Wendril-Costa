@@ -31,10 +31,7 @@ I am a passionate learner who is always willing to learn, work on technologies a
 - 🎓 &nbsp;In the Trybe course I graduated in the Fundamentals Module, Front-End, Back-end and in Computer Science, check out my certificates: <a href="https://pdf.credential.net/ecnefhzx_1648660435230.pdf" title="Certificates">Fundamentals</a> 📝 /  <a href="https://pdf.credential.net/rwkanyvw_1658425827679.pdf" title="Certificates">Front-End</a> 📝 / <a href="https://www.credential.net/8b308d7f-e3a1-40ee-a27f-bb51b7e7a319" title="Certificates">Back-End</a> 📝
 <br>
 <br>
-- 🛠 &nbsp;I'm in the Back-End Module, working with Node.js, Express, MySql, Json, Software Architecture: MSC, SQL, Docker 👨🏻‍💻
-<br>
-<br>
-- 🚀 &nbsp;And learning about ORM (Interface of the application with the database), Authentication with JWT, Heroku and TypeScript 👨🏻‍💻
+- 🛠 &nbsp; I'm a graduate student at trybe and now I'm looking for new experiences👨🏻‍💻
 <br>
 <br>
 - 💻 &nbsp;I am also a student at UTFPR (Universidade Tecnológica Federal do Paraná) 🏛, in Computer Science 🎓
