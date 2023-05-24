@@ -28,7 +28,7 @@ I am a passionate learner who is always willing to learn, work on technologies a
 
 ### 🧐 More About Me:
 <br>
-- 🎓 &nbsp;In the Trybe course I graduated in the Fundamentals Module, Front-End, Back-end and in Computer Science, check out my certificates: <a href="https://pdf.credential.net/ecnefhzx_1648660435230.pdf" title="Certificates">Fundamentals</a> 📝 /  <a href="https://pdf.credential.net/rwkanyvw_1658425827679.pdf" title="Certificates">Front-End</a> 📝 / <a href="https://www.credential.net/8b308d7f-e3a1-40ee-a27f-bb51b7e7a319" title="Certificates">Fundamentals</a> 📝
+- 🎓 &nbsp;In the Trybe course I graduated in the Fundamentals Module, Front-End, Back-end and in Computer Science, check out my certificates: <a href="https://pdf.credential.net/ecnefhzx_1648660435230.pdf" title="Certificates">Fundamentals</a> 📝 /  <a href="https://pdf.credential.net/rwkanyvw_1658425827679.pdf" title="Certificates">Front-End</a> 📝 / <a href="https://www.credential.net/8b308d7f-e3a1-40ee-a27f-bb51b7e7a319" title="Certificates">Back-End</a> 📝
 <br>
 <br>
 - 🛠 &nbsp;I'm in the Back-End Module, working with Node.js, Express, MySql, Json, Software Architecture: MSC, SQL, Docker 👨🏻‍💻
