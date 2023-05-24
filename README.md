@@ -54,6 +54,7 @@ I am a passionate learner who is always willing to learn, work on technologies a
 <a href="https://redux.js.org/" target="_blank"  > <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" align="left" alt="git" height='42px' /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"  > <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png?w=360" align="left" alt="git" height='42px' /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"  > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" align="left" alt="git" height='42px' /> </a>
+<a href="https://www.python.org/" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://img.freepik.com/free-icon/snakes_318-368381.jpg"> </a>
 <br>
 <hr>
 
