@@ -37,9 +37,6 @@ I am a passionate learner who is always willing to learn, work on technologies a
 - 💻 &nbsp;I am also a student at UTFPR (Universidade Tecnológica Federal do Paraná) 🏛, in Computer Science 🎓
 <br>
 <br>
-- 🤝 &nbsp;Currently looking to enter the job market as a Developer 🌐
-<hr>
-<br>
 
 ### 🔨 Tools:
 <br>
