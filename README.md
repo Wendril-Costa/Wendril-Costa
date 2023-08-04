@@ -28,7 +28,7 @@ I am a passionate learner who is always willing to learn, work on technologies a
 
 ### 🧐 More About Me:
 <br>
-- 🎓 &nbsp;In the Trybe course I graduated in the Fundamentals Module, Front-End, Back-end, Computer Science and Web development, check out my certificates: <a href="https://pdf.credential.net/ecnefhzx_1648660435230.pdf" title="Certificates">Fundamentals</a> 📝 /  <a href="https://pdf.credential.net/rwkanyvw_1658425827679.pdf" title="Certificates">Front-End</a> 📝 / <a href="https://www.credential.net/8b308d7f-e3a1-40ee-a27f-bb51b7e7a319" title="Certificates">Back-End</a> 📝 / <a href="https://www.credential.net/81cd9c28-97c2-48fd-a8e5-2ab4030590a5#gs.10lmns" title="Certificates">Web development</a> 📝
+- 🎓 &nbsp;In the Trybe course I graduated in the Fundamentals Module, Front-End, Back-end, Computer Science and Web development, check out my certificates: <a href="https://pdf.credential.net/ecnefhzx_1648660435230.pdf" title="Certificates">Fundamentals</a> 📝 /  <a href="https://pdf.credential.net/rwkanyvw_1658425827679.pdf" title="Certificates">Front-End</a> 📝 / <a href="https://www.credential.net/8b308d7f-e3a1-40ee-a27f-bb51b7e7a319" title="Certificates">Back-End</a> 📝 / <a href="https://www.credential.net/da8829ae-3068-413c-a20f-7e46dd269d62" title="Certificates">Computer Science</a> 📝 / <a href="https://www.credential.net/81cd9c28-97c2-48fd-a8e5-2ab4030590a5#gs.10lmns" title="Certificates">Web Development</a> 📝
 <br>
 <br>
 - 🛠 &nbsp; I'm a graduate student at trybe and now I'm looking for new experiences👨🏻‍💻
