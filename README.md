@@ -34,7 +34,7 @@ I am a passionate learner who is always willing to learn, work on technologies a
 - 🛠 &nbsp; I'm a graduate student at trybe and now I'm looking for new experiences👨🏻‍💻
 <br>
 <br>
-- 💻 &nbsp;I am also a student at UTFPR (Universidade Tecnológica Federal do Paraná) 🏛, in Computer Science 🎓
+- 💻 &nbsp;I am also a student at UNICESSUMAR 🏛, in Software Engineer 🎓
 <br>
 <br>
 <hr>
