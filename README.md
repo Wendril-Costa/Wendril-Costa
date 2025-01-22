@@ -56,7 +56,7 @@ I am a passionate learner who is always willing to learn, work on technologies a
 <br>
 <hr>
 
-### ⚡ Stats asdasdsadas asdasdasdasdas:
+### ⚡ Stats:
 <br>
 <br>
 <p align=center>
