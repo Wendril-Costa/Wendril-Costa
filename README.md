@@ -17,26 +17,15 @@
 
 <p>
 
-I'm a Trybe student, Full Stack Web Development course 🌐, having 4 HardSkills modules (Fundamentals, Front-End, Back-End, Computer Science) 👨🏻‍💻 and counting on SoftSkills such as Self-Leadership, Time Management, Creativity, Collaboration and many others 📚
+Full Stack Developer with 4 years of programming experience, specializing in Java and the Spring Boot ecosystem. Focused on solving complex end-to-end problems, delivering robust, scalable solutions with clean and well-structured code.
 <br>
 <br>
-I am a passionate learner who is always willing to learn, work on technologies and domains 💡 and looking for new challenges in the tech world ✨
+My journey began in 2018 during my undergraduate studies in Computer Science at UTFPR. During this period, I combined theory and practice by teaching basic computer skills in social projects, which strengthened my technical communication and ability to translate complex concepts. In 2023, I started my professional career as a developer and transitioned to Software Engineering (Unicesumar) to balance studies and full-time work.
 <br/>
 <br/>
+In parallel, I developed practical training in Full Stack development, consolidating expertise in JavaScript/TypeScript, React, Node.js, and relational and NoSQL databases. All developed projects are available on my GitHub.
+Current focus: Cybersecurity course by Google, technical English, and new tools to optimize application security and performance.
 </p>
-<hr>
-
-### 🧐 More About Me:
-<br>
-- 🎓 &nbsp;In the Trybe course I graduated in the Fundamentals Module, Front-End, Back-end, Computer Science and Web development, check out my certificates: <a href="https://pdf.credential.net/ecnefhzx_1648660435230.pdf" title="Certificates">Fundamentals</a> 📝 /  <a href="https://pdf.credential.net/rwkanyvw_1658425827679.pdf" title="Certificates">Front-End</a> 📝 / <a href="https://www.credential.net/8b308d7f-e3a1-40ee-a27f-bb51b7e7a319" title="Certificates">Back-End</a> 📝 / <a href="https://www.credential.net/da8829ae-3068-413c-a20f-7e46dd269d62" title="Certificates">Computer Science</a> 📝 / <a href="https://www.credential.net/81cd9c28-97c2-48fd-a8e5-2ab4030590a5#gs.10lmns" title="Certificates">Web Development</a> 📝
-<br>
-<br>
-- 🛠 &nbsp; I'm a graduate student at trybe and now I'm looking for new experiences👨🏻‍💻
-<br>
-<br>
-- 💻 &nbsp;I am also a student at UNICESSUMAR 🏛, in Software Engineer 🎓
-<br>
-<br>
 <hr>
 
 ### 🔨 Tools:
@@ -48,7 +37,6 @@ I am a passionate learner who is always willing to learn, work on technologies a
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://bobcares.com/wp-content/uploads/2022/06/mysql.png" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" align="left" alt="git" height='42px' /> </a>
-<a href="https://www.json.org/json-en.html" target="_blank"  > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png" align="left" alt="git" height='42px' /> </a>
 <a href="https://redux.js.org/" target="_blank"  > <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" align="left" alt="git" height='42px' /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"  > <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png?w=360" align="left" alt="git" height='42px' /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"  > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" align="left" alt="git" height='42px' /> </a>
